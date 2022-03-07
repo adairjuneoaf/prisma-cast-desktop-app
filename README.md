@@ -12,7 +12,7 @@
   <img alt="prisma-cast" src=".github/prisma-cast-preview.png" width="auto">
 </p>
 
-Você pode acessar o projeto WEB clicando neste link [acessar projeto](prisma-cast.vercel.app)
+Você pode acessar o projeto WEB clicando neste link [acessar projeto](https://prisma-cast.vercel.app)
 
 O prisma.cast é um app de Podcasts que pode ser utilizado em qualquer cenário, em que seja necessário ter um app próprio para distribuir ao seu público os seus Podcasts.
 Este é um projeto desenvolvido como parte da evolução de uma semana de estudos com a **[Rocketseat](https://www.rocketseat.com.br)**.
