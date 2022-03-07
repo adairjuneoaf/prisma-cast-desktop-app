@@ -1,29 +1,45 @@
-## Template para produção de app com Electron, ReactJS e NextJS
+<p align="center">
+  <img alt="prisma-cast" src=".github/logo.svg" width="192px">
+</p>
 
-<div align="center">
-<img alt='img-example-template' src=".github/template_example.png" width='512' height='auto'>
+<!-- <h1 align="center">
+  <img alt="project-final-gif" src=".github/prisma-focus-2.gif" width="100%">
+</h1> -->
 
-</div>
+## 💻 Projeto - Prisma Cast Desktop
 
-### Instruções de uso
+<p align="center">
+  <img alt="prisma-cast" src=".github/prisma-cast-preview.png" width="auto">
+</p>
 
-Clone o projeto e acesse a pasta do mesmo.
+Você pode acessar o projeto WEB clicando neste link [acessar projeto](prisma-cast.vercel.app)
 
-```bash
-$ git clone https://github.com/adairjuneoaf/template-app-react-next-electron
-$ cd template-app-react-next-electron
-```
+O prisma.cast é um app de Podcasts que pode ser utilizado em qualquer cenário, em que seja necessário ter um app próprio para distribuir ao seu público os seus Podcasts.
+Este é um projeto desenvolvido como parte da evolução de uma semana de estudos com a **[Rocketseat](https://www.rocketseat.com.br)**.
 
-Para iniciá-lo, siga os passos abaixo:
+## 🧪 Tecnologias
 
-```bash
-# Instalar as dependências.
-$ yarn
-# Iniciar o projeto.
-$ yarn dev
-# Iniciar o processo de ciração de uma Build do projeto.
-$ yarn build
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```
+- [React](https://reactjs.org)
+- [NextJS](https://nextjs.org)
+- [NEXTRON](https://www.npmjs.com/package/nextron)
+- [ELECTRON](https://www.electronjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
-O app estará disponível assim que a tela estiveer pronta para ser exibida, basta aguardar e um aplicativo irá abrir em seu desktop.
+## 📚 Bibliotecas
+
+Para auxiliar no desenvolvimento do projeto, utilizei as seguinte bibliotecas:
+
+- [SWR](https://swr.vercel.app)
+- [Framer](https://www.framer.com/docs/)
+- [date-fns](https://date-fns.org/docs/Getting-Started)
+- [rc-slider](https://slider-react-component.vercel.app)
+- [Material-UI](https://mui.com/pt/getting-started/installation/)
+- [json-server](https://github.com/typicode/json-server)
+- [ReactToastify](https://fkhadra.github.io/react-toastify/introduction)
+- [StyledComponents](https://styled-components.com)
+
+---
+
+Layout desenvolvido por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/) by Rocketseat ♥
