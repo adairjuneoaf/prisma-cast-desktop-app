@@ -1,0 +1,12 @@
+appId: prisma-cast
+productName: Prisma Cast
+copyright: Copyright © 2022 Adair Juneo
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
